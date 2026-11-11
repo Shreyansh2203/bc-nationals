@@ -1,0 +1,61 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local databases & run artifacts
+*.db
+*.sqlite3
+*.log
+
+# Windows thumbnail & desktop caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+~$*
+
+# Documents & spreadsheets
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.xlsm
+*.pptx
+*.ppt
+*.pdf
+
+# Documentation & markdown
+*.md
+docs/
+
+# Archives & compressed files
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Output and build runs
+output/
+
+# Media recordings
+*.mp4
+*.mkv
+*.mov
+*.avi
+
+# IDE & Editor caches
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Virtual environments
+venv/
+.venv/
+env/
